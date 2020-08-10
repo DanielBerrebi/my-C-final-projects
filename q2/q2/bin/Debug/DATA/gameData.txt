@@ -1,0 +1,20 @@
+1;0;Does Covid-19 is spread in the air?.;True.;False.
+2;1;COVID-19 starting place?;China.;Italy.;Israel.
+3;3;What is the propper way to put a mask?;MaskCorrect.jpg;MaskIncorrect.jpg
+4;0;Asymptomatic people can spread the virus;True;False
+5;1;What is NOT a COVID-19 symptom;Nose bleeding;Cough;Loss of taste or smell;Headache.
+6;1;What you should do if you develop symptoms of COVID-19?;Follow the guidelines of the public health authorities in your area;Do noting
+7;3;How to cough correctly;CoughTrue.jpg;CoughFalse.jpg
+8;1;How to protect yourself from the virus?;clean your hands frequently and thoroughly and Use alcohol-based hand sanitizer;Drink bleach
+9;0;If you are tested and the test is negative, do you still have to be quarantined?;True;False
+10;1;How did this new coronavirus spread to humans?;early hypotheses thought it may be linked to a seafood market in Wuhan, China.;By a spider bite
+11;1;What is the incubation period for COVID-19?;14 Days; 28 Days
+12;1;How is COVID-19 diagnosed?;Diagnosis by a physical exam;Diagnosis if you have fever
+13;1;Are some people more at risk than others?;Elderly people above 70 years of age and those with underlying health conditions;No
+14;1;What is the possibility of reinfection after you have recovered from COVID-19?;Yes but the possibility is low;No
+15;1;What does COVID-19 stand for?;'CO' stands for corona, 'VI' for virus, and 'D' for disease' And 19 for 2019;'CO' stands for corona, 'VI' for virus, and 'D' for december and 19 for the number of the symptoms
+16;1;Is there evidence of a heightened risk to pregnant women?;So far, we haven’t seen any particular data that pregnant women are at greater risk.;Yes.
+17;0;There are a vaccine for Covid-19;False;True
+18;2;The virus is mutating rapidly.;CoronaTrue.jpg;CoronaFalse.jpg
+19;2;Covid-19 can't kill humans;CoronaFalse.jpg;CoronaTrue.jpg
+20;1;Can you always tell if someone has COVID-19?;No – not everyone with COVID-19 has symptoms;Yes.

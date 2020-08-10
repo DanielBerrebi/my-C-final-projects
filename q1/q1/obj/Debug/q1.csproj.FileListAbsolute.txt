@@ -1,0 +1,9 @@
+D:\Users\Daniel\source\repos\q1\q1\obj\Debug\q1.csprojAssemblyReference.cache
+D:\Users\Daniel\source\repos\q1\q1\obj\Debug\q1.csproj.CoreCompileInputs.cache
+D:\Users\Daniel\source\repos\q1\q1\bin\Debug\q1.exe.config
+D:\Users\Daniel\source\repos\q1\q1\bin\Debug\q1.exe
+D:\Users\Daniel\source\repos\q1\q1\bin\Debug\q1.pdb
+D:\Users\Daniel\source\repos\q1\q1\obj\Debug\q1.exe
+D:\Users\Daniel\source\repos\q1\q1\obj\Debug\q1.pdb
+D:\Users\Daniel\source\repos\q1\q1\bin\Debug\q1.exe.CodeAnalysisLog.xml
+D:\Users\Daniel\source\repos\q1\q1\bin\Debug\q1.exe.lastcodeanalysissucceeded

@@ -1,0 +1,17 @@
+1;The proper way to put a mask;Put the mask in a way that cover both your mouth and your nose.;Mask.jpg
+2;A way to protect yourself from the virus;To protect yourself and others against COVID-19, clean your hands frequently and thoroughly. Use alcohol-based hand sanitizer or wash your hands with soap and water. If you use an alcohol-based hand sanitizer, make sure you use and store it carefully.
+3;COVID-19 symptoms;Cough,Fever or chills,Shortness of breath or difficulty breathing,Muscle or body aches,Sore throat,New loss of taste or smell,Diarrhea,Headache,Fatigue,Nausea or vomiting.
+4;COVID-19 starting place;COVID-19 started ar china.
+5;incubation period for COVID-19;It appears that symptoms are showing up in people within 14 days of exposure to the virus.
+6;The proper way to cough;You need to cough to your elbow;Coughing.jpg
+7;How is COVID-19 diagnosed;Diagnosis may be difficult with only a physical exam because mild cases of COVID-19 may appear similar to the flu or a bad cold.
+8;How did this new coronavirus spread to humans?;COVID-19 appeared in Wuhan, a city in China, in December 2019. Although health officials are still tracing the exact source of this new coronavirus, early hypotheses thought it may be linked to a seafood market in Wuhan, China. Some people who visited the market developed viral pneumonia caused by the new coronavirus.
+9;How does the new coronavirus spread?;As of now, researchers know that the new coronavirus is spread through droplets released into the air when an infected person coughs or sneezes.
+10;Is there a vaccine for a novel coronavirus?;There are no vaccine yet
+11;What does COVID-19 stand for?;'CO' stands for corona, 'VI' for virus, and 'D' for disease. Formerly, this disease was referred to as '2019 novel coronavirus' or '2019-nCoV.'
+12;Are some people more at risk than others?;Elderly people above 70 years of age and those with underlying health conditions (e.g. hypertension, diabetes, cardiovascular disease, chronic respiratory disease and cancer) are considered to be more at risk of developing severe symptoms. Men in these groups also appear to be at a slightly higher risk than females
+13;What you should do if you develop symptoms of COVID-19;Follow the guidelines of the public health authorities in your area on the steps to take or call the local COVID-19 helpline.
+14;Asymptomatic people can spread the virus?;Yes. This virus has been very hard to control, which suggests asymptomatic transmission, and there have been a number of studies documenting asymptomatic transmission.
+15;What is the possibility of reinfection after you have recovered from COVID-19?;It is expected that there will be a low possibility of reinfection, but this is not known yet for sure. There are some reported cases of reinfection. Researchers are working to understand how best to measure immunity using tests of the antibody response.
+16;Is there evidence of a heightened risk to pregnant women?;So far, we haven’t seen any particular data that pregnant women are at greater risk. However, there is significant concern that this may be the case.
+17;If you are tested and the test is negative, do you still have to be quarantined?;Yes. The reason is the test measures infection, not exposure. Someone can be exposed on a Monday, not develop an infection yet on a Tuesday and test negative, but then develop a clinical infection on Wednesday and then have a positive test Thursday. So, quarantine needs to last for 14 days regardless of testing results.
